@@ -1,4 +1,3 @@
-
 var Character = require("../models/orders.js");
 
 module.exports = function(app) {
